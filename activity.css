@@ -1,0 +1,71 @@
+body{
+  margin: 0px;
+  background-image: url("images (2).jpeg");
+  color: white;
+}
+#nav-bar li{
+    font-size:  50px;
+    margin:20px 20px 20px 0px;
+    padding: 5px 20px 5px 0px;
+    display: inline;
+}
+#nav-bar{text-align: center;
+border: 1px solid white;
+height: 55px;
+width: 100%;
+background-color: black;
+margin-top: 0px;
+color: white;
+}
+header{
+    text-align: center;
+    border: 5px solid red;
+    height: 40px;
+    width: 100%;
+    background-image: url("vector-simple-circle-yellow-background.jpg");
+    padding: 10px;
+    font-size: 50px;
+    color: maroon;
+    font-style: italic;
+    margin-bottom: 0px;
+    font-weight: 900;
+}
+.index{
+position: absolute;
+top: 180px;
+width: 150px;
+height: 280px;
+color: white;
+border: 2px solid white;
+left: 10px;
+background-color: black;
+}
+.index li{
+  padding:15px;
+  padding-left: 0px;
+}
+.inline .no1{
+  position: relative;
+  display: inline;
+  top: 10px;
+  padding-left: 450px;
+  padding-bottom: 10px;
+}
+.inline .img1{
+  position: relative;
+  padding-left: 260px;
+  top: 10px;
+}
+
+.no1{
+  font-size: 50px;
+  color: rgb(196, 38, 38);
+}
+.content1{
+  font-size: 30px;
+  font-style: italic;
+  width: 800px;
+  padding-top: 20px;
+  padding-left: 300px;
+}
+  

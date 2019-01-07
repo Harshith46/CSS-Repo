@@ -1,0 +1,49 @@
+.Hamburger-menu{
+    display: flex;
+    height: 80px;
+    width: 100%;
+    border: 3px solid black;
+    justify-content: space-around;
+    color: gray;
+}
+body{
+    margin: 0;
+}
+#info{
+    padding-top: 25px;
+    font-size: 20px;
+}
+ .build{
+     color: blue;
+     font-size: 25px;
+ }
+#img2{
+    border: 1px solid;
+}
+.flex3{
+    
+    justify-content: space-between;
+    flex-direction: row;
+}
+.recommendation{
+    display: flex;
+    flex-direction:;
+    overflow: scroll;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center
+}
+.recommendation h3{
+    position: sticky;
+}
+.data{
+    display: flex;
+    
+}
+.a{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+    border: 1px solid gray;
+    border-style: outset ;
+}
